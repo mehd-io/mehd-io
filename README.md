@@ -15,7 +15,7 @@ I always keep my feet on the ground and take some times to do technology watch :
 
 <a href="https://linkedin.com/in/mehd-io/"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/linkedin.svg" alt="mehdio | LinkedIn" width="21px"/></a>
 <a href="https://www.youtube.com/channel/UCiZxJB0xWfPBE2omVZeWPpQ"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/youtube.svg" alt="mehdio | YouTube" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/medium.svg" alt="mehdio | Medium" width="21px"/></a>
+<a href="https://medium.com/@mehdio"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/medium.svg" alt="mehdio | Medium" width="21px"/></a>
 <br>
 
 ## 🔭 I'm currently working on
