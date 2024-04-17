@@ -10,9 +10,7 @@ on:
   push:
     branches:
     - master
-    
   
-
 jobs:
   generate:
     permissions: 
@@ -21,6 +19,8 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -33,7 +33,7 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-            commit_message: 'Update README with GitHub repos'
+            commit_message: 'Update snake animation 🐍'
             commit_options: '--no-verify'
             commit_user_name: 'GitHub Actions'
             commit_user_email: 'actions@github.com'
