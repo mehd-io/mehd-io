@@ -33,9 +33,9 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-        commit_message: 'Update README with GitHub repos'
-        commit_options: '--no-verify'
-        commit_user_name: 'GitHub Actions'
-        commit_user_email: 'actions@github.com'
-        file_pattern: 'README.md'
-        branch: ${{ github.ref }}
+            commit_message: 'Update README with GitHub repos'
+            commit_options: '--no-verify'
+            commit_user_name: 'GitHub Actions'
+            commit_user_email: 'actions@github.com'
+            file_pattern: 'README.md'
+            branch: ${{ github.ref }}
