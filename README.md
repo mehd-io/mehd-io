@@ -11,15 +11,14 @@ I'm Mehdi—aka mehdio—a data enthusiast with over a decade of experience in d
 
 ### 🤓 Where to find my best work
 
+**🎥✍️ I create long-form, in-depth guides and stories — both as videos on [YouTube](https://www.youtube.com/channel/UCiZxJB0xWfPBE2omVZeWPpQ) and as articles on [Substack](https://blog.mehdio.com). Dive in for deep, enjoyable learning!**
+👇
 <a href="https://www.youtube.com/channel/UCiZxJB0xWfPBE2omVZeWPpQ"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/youtube.svg" alt="mehdio | YouTube" width="21px"/></a>
 <a href="https://blog.mehdio.com"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/substack.svg" alt="mehdio | Substack" width="21px"/></a>
-<br>
-
-**🎥✍️ I create long-form, in-depth guides and stories — both as videos on [YouTube](https://www.youtube.com/channel/UCiZxJB0xWfPBE2omVZeWPpQ) and as articles on [Substack](https://blog.mehdio.com). Dive in for deep, enjoyable learning!**
 
 ## 🔭 I'm currently working on
 
-- [Subtldr](subtldr.com) : An AI generated reddit newsletter
+- [Subtldr](https://subtldr.com) : An AI generated reddit newsletter
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
