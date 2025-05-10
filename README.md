@@ -13,8 +13,10 @@ I'm Mehdi—aka mehdio—a data enthusiast with over a decade of experience in d
 
 **🎥✍️ I create long-form, in-depth guides and stories — both as videos on [YouTube](https://www.youtube.com/channel/UCiZxJB0xWfPBE2omVZeWPpQ) and as articles on [Substack](https://blog.mehdio.com). Dive in for deep, enjoyable learning!**
 👇
+
 <a href="https://www.youtube.com/channel/UCiZxJB0xWfPBE2omVZeWPpQ"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/youtube.svg" alt="mehdio | YouTube" width="21px"/></a>
 <a href="https://blog.mehdio.com"><img align="left" src="https://raw.githubusercontent.com/mehd-io/mehd-io/main/images/substack.svg" alt="mehdio | Substack" width="21px"/></a>
+
 
 ## 🔭 I'm currently working on
 
